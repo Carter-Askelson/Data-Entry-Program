@@ -1,5 +1,8 @@
 # Data-Entry-Program
-Installtion Instructions (First 3 steps only need to be done once):
+
+This Program saved the Company it was sold to $2,500+ and hundreds of man-hours every year by automating away a task one of its department's was doing manually.
+
+installation Instructions (First 3 steps only need to be done once):
    1:Run Python installer
    Important!!!
    Click box to ADD to PATH
