@@ -1,6 +1,6 @@
 # Data-Entry-Program
 
-This Program saved the Company it was sold to $2,500+ and hundreds of man-hours every year by automating away a task one of its department's was doing manually.
+This Program saved the Company it was sold to $2,500+ and hundreds of man-hours every year by automating away a task one of its department's was doing manually. The program takes an excel sheet with Data about Customers and webscrapes data from the internet to check if their name is the one on the Deed of the home.
 
 installation Instructions (First 3 steps only need to be done once):
    1:Run Python installer
@@ -14,8 +14,6 @@ installation Instructions (First 3 steps only need to be done once):
      [ENTER]
 
    3:Replace Deeds with new Excel File in Deed Program Folder
-   Important!!!
-   Deed_Program will only work if the folder that its in is on the Desktop
    
    4:Run Deed_Program with Python 3.X (right click Deed_Program and open with Python 3.9 or newer version.
    Deed_Program will only update last worksheet and if the worksheet has less than 300 Deed names to collect.
