@@ -77,8 +77,8 @@ def get_values():
 #opens homeinfomax.com and logs in (Make sure to update this if usernames or passwords change)
 def set_up_site():
     global browser
-    username = "homeinfomax@safestreets.com"
-    password = "Datadepartment1"
+    username = "Username Here"
+    password = "Password Here"
     usernamespot = "#edit-name"
     passwordspot = "#edit-pass"
     login = "#edit-submit"
