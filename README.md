@@ -22,7 +22,7 @@ installation Instructions (First 3 steps only need to be done once):
 
    6:Once Program is finished move next worksheet to the end of the workbook and hit save if additonal days are ready to be updated.
 
-(Brett Kesler also requested a feature to highlight the Deed Names that don't contain the Customer name to identify which accounts are in trouble).
+(VP also requested a feature to highlight the Deed Names that don't contain the Customer name to identify which accounts are in trouble).
 
 
 If all the conditions are met and the program doesn't work then the chromedriver may need to be updated and can be downloaded for free here: 
